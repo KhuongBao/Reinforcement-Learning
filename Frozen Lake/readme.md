@@ -1,1 +1,1 @@
-Solved the Frozen Lake game on gymnasium using Q-learning  
+Solved the Frozen Lake game (4x4) on gymnasium using Q-learning  
